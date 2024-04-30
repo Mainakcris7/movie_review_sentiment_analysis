@@ -4,7 +4,7 @@
 ## Overview
 This project aims to predict the sentiment (positive or negative) of movie reviews using machine learning and deep learning models. The best-performing model, an LSTM (Long Short-Term Memory) neural network, achieved an accuracy of approximately **88%**. The project is implemented using Flask for the web interface and model deployment.
 
-[!Logo](./logo.png)
+![Logo](./logo.png)
 
 ## Getting Started
 
