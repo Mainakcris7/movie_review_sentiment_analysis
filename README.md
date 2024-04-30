@@ -11,8 +11,8 @@ This project aims to predict the sentiment (positive or negative) of movie revie
 ### Installation
 1. Clone the repository:
    ```git
-   git clone https://github.com/yourusername/sentiment-analysis-movie-reviews.git
-   cd sentiment-analysis-movie-reviews
+   git clone https://github.com/yourusername/movie_review_sentiment_analysis.git
+   cd movie_review_sentiment_analysis
    ```
 2. Install dependencies:
    ```
@@ -24,7 +24,7 @@ This project aims to predict the sentiment (positive or negative) of movie revie
    ```
    python app.py
    ```
-2. Open a web browser and go to `https://localhost:5000/`.
+2. Open a web browser and go to `https://localhost:8080/`.
 3. Enter a movie review in the provided form and submit it.
 4. The sentiment analysis result (positive or negative) will be displayed.
 

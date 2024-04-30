@@ -1,0 +1,16 @@
+cleantext==1.1.4
+Flask==3.0.3
+numpy==1.23.5
+spacy==3.6.1
+tensorflow==2.15.0
+tensorflow_intel==2.15.0
+joblib
+matplotlib
+pandas
+numpy
+wordcloud
+tqdm
+sklearn
+xgboost
+catboost
+lightgbm
